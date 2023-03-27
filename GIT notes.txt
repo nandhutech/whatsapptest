@@ -1,0 +1,14 @@
+1.git --version
+
+2.git init
+
+3.git add (file name)
+
+4.git commit -m "any comment if needed"
+
+5.git remote add origin (github folder link need to be pasted)
+
+6.git push -u origin master
+[The file has been pushed to git hub, need to check in git hub]
+
+7.
